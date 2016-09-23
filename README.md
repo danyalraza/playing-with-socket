@@ -1,5 +1,5 @@
-# Hi there,
+# Test App
 
-Part of this project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.2.0.
+Not much to see here. Just playing around with socket.io
 
 
